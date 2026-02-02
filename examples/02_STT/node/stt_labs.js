@@ -1,4 +1,4 @@
-//Example STT - "watson"
+//Example STT - "Eleven Labs"
 
 var exec = require('child_process').execSync;
 
